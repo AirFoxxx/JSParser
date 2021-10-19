@@ -1,4 +1,4 @@
-# Simple Ruescape WebApi parser for archaeology
+# Simple Runescape WebApi parser for archaeology
 This simple command line parser requests the prices of all materials from RS archaeology, separates them into different categories based on their type and sums them up.
 
 Such price comparison is useful to determine into which area you should invest your resources and which materials can be sold for the highest price on the Grand Exchange.
